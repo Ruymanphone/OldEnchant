@@ -1,6 +1,9 @@
 name: OldEnchant
 main: me.varmetek.oldenchant.OldEnchantPlugin
-version: 1.0.0
-description: An enchantment plugin made by Varmetek
+version: 1.0.3
+description: An enchantment plugin originally made by Varmetek - I just tried to update it with AI - All credit goes to him
 authors:
   - Varmetek
+  - Ruymanphone
+  - AI Gemini-Copilot-CLaude-DeepSeek-ChatGPT
+api-version: 1.13
